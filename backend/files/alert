@@ -1,0 +1,18 @@
+03/02-01:24:43.700764  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+03/02-01:25:03.770167  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+03/02-01:25:38.795155  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.154 -> 10.0.2.15
+03/02-01:25:43.320758  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.154 -> 10.0.2.15
+03/02-01:25:48.174319  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+03/02-01:36:18.814984  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.214 -> 10.0.2.15
+03/02-01:36:19.847737  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.214 -> 10.0.2.15
+03/02-01:36:20.866980  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.214 -> 10.0.2.15
+03/02-01:36:21.940990  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.214 -> 10.0.2.15
+03/02-01:36:22.954588  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.214 -> 10.0.2.15
+03/02-01:36:23.987654  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+03/02-01:37:05.123456  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.100 -> 10.0.2.15
+03/02-01:37:06.234567  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.100 -> 10.0.2.15
+03/02-01:37:07.345678  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+03/02-01:38:00.987654  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.88 -> 10.0.2.15
+03/02-01:38:01.876543  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+03/02-01:38:02.765432  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 192.168.168.88 -> 10.0.2.15
+03/02-01:38:03.654321  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
